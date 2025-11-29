@@ -1,8 +1,9 @@
 {
-    "version": "2.1",
+    "version": "2.0",
     "download_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1106611685/c9bc8623-e79f-4a5f-be7e-6655e71c95a4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-11-29T20%3A32%3A53Z&rscd=attachment%3B+filename%3Daxlc5.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-11-29T19%3A32%3A31Z&ske=2025-11-29T20%3A32%3A53Z&sks=b&skv=2018-11-09&sig=ItLUC8xTTQ4vamMmgO04r6c9gJ6NrnnG3bvrHNL%2FqfA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NDQ0NjY2NywibmJmIjoxNzY0NDQ0ODY3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Sy9dTpr7GCW2MWOAjZOlyIICi2vNXUslE-cazUWtqIw&response-content-disposition=attachment%3B%20filename%3Daxlc5.exe&response-content-type=application%2Foctet-stream",
     "changelog": "- Auto-update eklendi\n- Performance iyileştirmeleri\n- Bug düzeltmeleri"
 }
+
 
 
 
